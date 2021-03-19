@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+
+<style>
+body{
+	font-family: Arial;
+
+}
+#top{
+	text-align: center;
+}
+
+#logo {
+	color: white;
+	background-color: red;
+	display: inline-block;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 4px;
+}
+#logo-name{
+	font-size: 32px;
+	font-weight: bold;
+	padding: 8px;	
+}
+
+#navigation a{
+	color: gray;
+	padding: 8px;
+	font-size: 10px;
+}
+#navigation a:hover {
+	color: red;
+}
+#text1 a{
+	color: red;
+	font-size: 20px;
+	text-decoration: underline;
+}
+#image img{
+	padding: 20px;
+}
+
+#text2 a{
+	color: red;
+	font-size: 20px;
+	text-decoration: underline;
+}
+#image2 img{
+	padding: 20px;
+}
+
+
+
+	
+
+</style>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Baba Esti´s Rote Welt</title>
+	</head>
+	<body>
+		<div id="top">	
+			<div id="logo">Esti</div>
+			<div id="logo-name">Baba Esti</div>
+			<div id="navigation">
+				<a href=""></a>
+				<a href="https://www.twitch.tv/xbastianichhdx">Gönn Prime!</a>
+				<a href="https://www.tipeeestream.com/xbastianichhdx/donation">Gönn Geld!</a>
+				<a href="https://www.twitch.tv/xbastianichhdx/clip/VastAcceptableBunnyPMSTwin-aVzGMbw-JMQNre4R?filter=clips&range=7d&sort=time">NOHM NOHM!</a>
+		</div>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+		<div id="text1">
+		<a>Redhead Rex</a>
+		</div>
+		<div id="image">
+			
+			<img src="baba 1.png" alt="Dino">
+			
+		</div>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+		<div id="text2">
+		<a>Redsuo</a>
+		</div>
+		<div id="image2">
+			
+			<img src="baba 2.png" alt="Yasuo">
+		
+		<div id="top">
+		</div>
+    
