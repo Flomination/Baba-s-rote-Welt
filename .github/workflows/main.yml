@@ -26,7 +26,7 @@ body{
 #navigation a{
 	color: gray;
 	padding: 15px;
-	font-size: 10px;
+	font-size: 20px;
 }
 #navigation a:hover {
 	color: red;
